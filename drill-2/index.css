@@ -94,3 +94,28 @@ table {
     box-shadow: 10px 10px 5px dimgray;
     background-color: beige;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last-box {
+    height: 300px;
+    width: 500px;
+    border: 2px solid lightgrey;
+    margin-bottom: 30px;
+    box-shadow: 2px 2px 1px lightgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 10px;
+    color: navy;
+}
