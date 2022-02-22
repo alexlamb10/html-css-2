@@ -69,7 +69,9 @@ p {
 	margin: 30px;
 	font-size: 18px;
 }
-
+body {
+	position: relative;
+}
 .color {
 	height: 175px;
 }
@@ -88,4 +90,11 @@ p {
 
 .yellow {
 	background-color: rgb(245, 231, 82);
+}
+
+img {
+	border-radius: 50%;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
 }
