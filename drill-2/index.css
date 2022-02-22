@@ -76,3 +76,21 @@ table {
     border-radius: 50%;
     background-color: lightblue;
 }
+
+.second-box {
+    box-sizing: content-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    margin: 30px;
+    padding: 20px;
+    border: 5px dotted black;
+}
+
+.tan-rectangle {
+    width: 1150px;
+    height: 250px;
+    box-shadow: 10px 10px 5px dimgray;
+    background-color: beige;
+}
