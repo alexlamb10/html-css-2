@@ -49,7 +49,7 @@ table {
 
 .section-header {
     background-color: rgb(68, 68, 68);
-    height: 120px;
+    height: 15vh;
 }
 
 section {
@@ -60,7 +60,7 @@ section {
 }
 .side-gray {
     width: 10%;
-    height: 640px;
+    height: 85vh;
     background-color: rgb(216, 216, 216);
     align-items: stretch;
 }
@@ -76,7 +76,7 @@ section {
 }
 
 .bottom {
-    height: 100px;
+    height: 10vh;
     width: 80%;
     background-color: black;
     position: fixed;

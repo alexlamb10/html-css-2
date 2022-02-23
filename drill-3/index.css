@@ -48,22 +48,21 @@ table {
 }
 
 header {
-	height: 80px;
+	height: 10vh;
 	background-color: lightgray;
 	display: flex;
 	align-items: center;
 }
 
 .blue-box {
-	height: 50px;
-	width: 50px;
-	margin-left: 10px;
+	height: 70%;
+	width: 3.2%;
+	margin-left: 1%;
 	background-color: cornflowerblue;
 }
 
 .text {
-	height: 250px;
-	border: 1px solid black;
+	height: 31vh;
 }
 p {
 	margin: 30px;
@@ -73,7 +72,7 @@ body {
 	position: relative;
 }
 .color {
-	height: 175px;
+	height: 20vh;
 }
 
 .blue {
